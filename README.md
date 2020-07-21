@@ -6,7 +6,7 @@ cssはhead部分に以下を記入し、slick.css、slick-theme.cssにexamplw.cs
 
 　　  <link rel="stylesheet" href="slick-1.8.1/slick/slick.css" type="text/css">
 　　  <link rel="stylesheet" href="slick-1.8.1/slick/slick-theme.css" type="text/css">
-		 <link rel="stylesheet" type="text/css" href="example.css">
+　　  <link rel="stylesheet" type="text/css" href="example.css">
   
 javascriptはbodyの最後に以下を記入し、slick.jsにJSshirt.jsで上書きする。
 
