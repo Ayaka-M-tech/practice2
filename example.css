@@ -1,0 +1,81 @@
+H0{
+  color:red;
+  font-size:300%;
+}
+H1{color:red;}
+H2{font-size: 150%}
+p#an_id { color : black; border:groove; }
+p#an_id2 { color : green; border:none; }
+p.a_class { font-size: 80%; }
+p.a {
+ vertical-align: text-bottom;
+}
+div.gazo-box {
+    float: left;
+    background-color:  #ccc;      /* 背景色指定 */
+    padding-right: 10px;
+    padding-left: 10px;
+    width: 30%;
+    height: 60%;
+}
+h2 {
+clear: both;
+}
+
+.single-item{
+  width:100%;
+  height:25vw;
+}
+
+.center{
+    margin: 0 auto;
+    vertical-align: middle;
+}
+
+.slick-slide {
+  margin: 0 auto;
+  text-align: center;
+  color: blue;
+  /*color: #419be0;*/
+  background: white;
+}
+
+ /* 矢印のいち↓ */
+.slick_container {
+    width:360px; /* 任意の値 */
+    margin:0 auto; /* 任意の値 */
+    position:relative;
+}
+
+ .slick-prev, .slick-next {
+    width:60px; /* 画像幅 */
+    height:34px /* 画像高さ */
+}
+
+.slick-prev{left:20px ;color: black; /* 任意の値 */}
+.slick-next{right:20px; color: black; /* 任意の値 */}
+
+.slick-arrow{z-index:10;/* 値は適当に */}
+
+
+
+
+
+/* サイト全体をwrapperの塊として中央に配置する */
+body {
+    text-align: center;
+}
+div#wrapper {
+    width: 850px;
+    margin: 0 auto;
+    text-align: left;
+    border: 0px solid #FF0000;
+}
+
+.button {
+  width : 100px;
+  height : 40px;
+  border: groove;
+  background-color:#99ffff;
+  position: relative; left: 400px; top: 0px;
+}
