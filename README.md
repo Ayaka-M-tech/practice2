@@ -4,9 +4,9 @@ slickを使ってスライド式の画像に変更
 
 cssはhead部分に以下を記入し、slick.css、slick-theme.cssにexamplw.cssで上書きする。
 
-　　  <link rel="stylesheet" href="slick.css" type="text/css">
-　　  <link rel="stylesheet" href="slick-theme.css" type="text/css">
-		 <link rel="stylesheet" type="text/css" href="example.css">
+　　<link rel="stylesheet" href="slick.css" type="text/css">
+　　<link rel="stylesheet" href="slick-theme.css" type="text/css">
+　　<link rel="stylesheet" type="text/css" href="example.css">
   
   
 javascriptはbodyの最後に以下を記入し、slick.jsにJSshirt.jsで上書きする。
